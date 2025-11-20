@@ -1,0 +1,153 @@
+{
+  "C283d17e5": {
+    "courseId": "C283d17e5",
+    "title": "prog 2",
+    "description": "asd",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "La56bc7d1",
+        "title": "sadassad",
+        "content": "dasd",
+        "resources": []
+      }
+    ],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": ""
+  },
+  "C0071f398": {
+    "courseId": "C0071f398",
+    "title": "asdas",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "L88346c8e",
+        "title": "123123",
+        "content": "",
+        "resources": []
+      }
+    ],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "PENDING",
+    "rejectionReason": ""
+  },
+  "C4b3a4a0a": {
+    "courseId": "C4b3a4a0a",
+    "title": "Programming 2",
+    "description": "Java OOP course",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": ""
+  },
+  "C7919b0eb": {
+    "courseId": "C7919b0eb",
+    "title": "sdsdsadsdsd",
+    "description": "sdegffadsf34fewdc",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {},
+    "approvalStatus": "APPROVED",
+    "rejectionReason": ""
+  },
+  "C7e68c00d": {
+    "courseId": "C7e68c00d",
+    "title": "jhgqjwhdsgj",
+    "description": "",
+    "instructorId": "5c23ed08-dd6f-4cb1-b297-a3c8a38c023e",
+    "lessons": [
+      {
+        "lessonId": "Le9e976b5",
+        "title": "aasdasukjd",
+        "content": "iioioo",
+        "resources": []
+      }
+    ],
+    "students": [
+      "4e235820-39a0-4c20-9ebb-d52f75318ad2"
+    ],
+    "progress": {
+      "4e235820-39a0-4c20-9ebb-d52f75318ad2": [
+        "Le9e976b5"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": ""
+  },
+  "Cf2e8e951": {
+    "courseId": "Cf2e8e951",
+    "title": "prog 2",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "L09fc111b",
+        "title": "polymorphism",
+        "content": "1-overloading\n2-overriding",
+        "resources": []
+      },
+      {
+        "lessonId": "L7f1d3a64",
+        "title": "12312312",
+        "content": "",
+        "resources": []
+      }
+    ],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {
+      "7b8b39e1-9940-4947-a026-220163249fcc": [
+        "L09fc111b"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": ""
+  },
+  "C1f2cbaf8": {
+    "courseId": "C1f2cbaf8",
+    "title": "123123",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [],
+    "students": [],
+    "progress": {},
+    "approvalStatus": "PENDING",
+    "rejectionReason": ""
+  },
+  "C8e0838fb": {
+    "courseId": "C8e0838fb",
+    "title": "logic 2",
+    "description": "",
+    "instructorId": "ebea4820-14e6-45c1-a471-1aa1ab277672",
+    "lessons": [
+      {
+        "lessonId": "Lc63a3d7d",
+        "title": "flip flops",
+        "content": "all flip flops functions",
+        "resources": []
+      }
+    ],
+    "students": [
+      "7b8b39e1-9940-4947-a026-220163249fcc"
+    ],
+    "progress": {
+      "7b8b39e1-9940-4947-a026-220163249fcc": [
+        "Lc63a3d7d"
+      ]
+    },
+    "approvalStatus": "PENDING",
+    "rejectionReason": ""
+  }
+}
